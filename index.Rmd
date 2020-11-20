@@ -1,6 +1,6 @@
 ---
 title: "Ries Lab of Butterfly Informatics"
-output: html_document
+output: github_document
 
 ---
 
