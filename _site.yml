@@ -1,0 +1,12 @@
+name: "Ries Lab of Butterfly Informatics"
+output_dir: "docs"
+navbar:
+  title: "Ries Lab"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "Projects"
+   href: projects.html
+output:
+  html_document:
+ theme: jekyll-theme-midnight
