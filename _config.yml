@@ -1,1 +1,9 @@
+name: "Ries Lab of Butterfly Informatics"
+navbar:
+  title: "Ries Lab of Butterfly Informatics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
 theme: jekyll-theme-midnight
