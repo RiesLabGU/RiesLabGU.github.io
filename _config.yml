@@ -1,4 +1,5 @@
 name: "Ries Lab of Butterfly Informatics"
+markdown: kramdown
 navbar:
   title: "Ries Lab of Butterfly Informatics"
   left:
